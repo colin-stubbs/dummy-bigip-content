@@ -1,3 +1,4 @@
 when RULE_INIT {
   log local0. "Dummy Rule 3 powered up!"
+  log local0. "Updated during re-deploy."
 }
